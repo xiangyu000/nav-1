@@ -9,8 +9,8 @@ const hashMap = stObject || [
         url: 'https://www.acfun.cn'
     },
     {
-        logo: './images/bilibili.png',
-        logoType: 'image',
+        logo: 'B',
+        logoType: 'text',
         url: 'https://www.bilibili.com'
     }, 
 ];

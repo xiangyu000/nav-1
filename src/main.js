@@ -4,7 +4,7 @@ const x =localStorage.getItem('st1')
 const stObject=JSON.parse(x);
 const hashMap=stObject || [
 {logo:'A',logoType:'text',url:'https://www.acfun.cn'},
-{logo:'./images/bilibili.png',logoType:'image',url:'https://www.bilibili.com'},
+{logo:'B',logoType:'text',url:'https://www.bilibili.com'},
 ];
 
 const simplurl=(url)=>{
